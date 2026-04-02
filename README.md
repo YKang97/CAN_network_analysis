@@ -55,3 +55,51 @@ We implement a **correlation-based network analysis** comparing two experimental
 ![Bump Chart](output/figures/Fig5_bump_chart.png)
 
 ## Repository Structure
+
+```
+.
+├── data/                       # Raw data (not included in repo)
+├── output/figures/             # Generated figures
+├── CAN_network_analysis.ipynb  # Main analysis notebook
+├── requirements.txt            # Python dependencies
+├── LICENSE                     # MIT License
+└── README.md                   # This file
+```
+
+## Installation
+
+```bash
+git clone https://github.com/YKang97/CAN_network_analysis.git
+cd CAN_network_analysis
+pip install -r requirements.txt
+```
+
+## How to Reproduce
+
+1. Clone this repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Place your data file at `./data/CAN.xlsx`
+4. Open `CAN_network_analysis.ipynb` in Jupyter
+5. Run all cells sequentially (Cell 1 → Cell 6)
+
+## Data Availability
+
+Raw data are available upon reasonable request from the corresponding author. The data file is not included in this repository to protect participant privacy.
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@article{Kang2026,
+  title   = {Your Paper Title},
+  author  = {Kang, Y. and ...},
+  journal = {Journal Name},
+  year    = {2026},
+  doi     = {YOUR_DOI_HERE}
+}
+```
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
