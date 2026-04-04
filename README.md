@@ -8,7 +8,7 @@
 This repository contains the data and analysis code for the paper:
 
 > **光谱条件对学龄前儿童生理–行为网络结构的影响：探索性二次分析**  
-> Yankang Jiang a, Dingheng Mai b, Xiaotong Chen c, Junxian Liang d, Yupeng Shen a * (2026).*BMC Sports Science, Medicine and Rehabilitation (2026)*.
+> Yankang Jiang a, Dingheng Mai b, Xiaotong Chen c, Junxian Liang d, Yupeng Shen a *  BMC Sports Science, Medicine and Rehabilitation (2026)
 >
 > 
 > a Sports Engineering Center, School of Physical Education and Sports Science, South China Normal University, Guangzhou, 510006, China
