@@ -7,8 +7,15 @@
 
 This repository contains the data and analysis code for the paper:
 
-> **Your Paper Title Here**  
-> Author 1, Author 2 (2026). *Journal Name*.
+> **光谱条件对学龄前儿童生理–行为网络结构的影响：探索性二次分析**  
+> Yankang Jiang a, Dingheng Mai b, Xiaotong Chen c, Junxian Liang d, Yupeng Shen a * (2026). *BMC Sports Science, Medicine and Rehabilitation*.
+>
+>
+>  a Sports Engineering Center, School of Physical Education and Sports Science, South China Normal University, Guangzhou, 510006, China
+b School of Physical Education, Guangzhou Business School, Guangzhou, 511400, China
+c School of Physical Education, Guangzhou Business School, Guangzhou, 511400, China
+d Center for Cognitive and Brain Sciences, Institute of Collaborative Innovation, University of Macau, Taipa, Macau, China
+
 
 We implement a **correlation-based network analysis** comparing two experimental conditions (CWL vs. BWL) using sign-flip permutation inference on global, node-level, and edge-level network metrics. The entire analysis is fully reproducible from raw data to final figures in a single Jupyter notebook.
 
