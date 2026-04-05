@@ -32,31 +32,19 @@ We implement a **correlation-based network analysis** comparing two experimental
 
 ## Key Results
 
-### Figure 1 — Condition-Specific Networks
+## Key Results
 
-| (A) CWL Network | (B) BWL Network |
-|:----------------:|:----------------:|
-| ![CWL](output/figures/Fig1a_CWL_network.png) | ![BWL](output/figures/Fig1b_BWL_network.png) |
+### Figure 1 — Condition-Specific Networks & Strength Change
 
-### Figure 1c — Difference Network (BWL − CWL)
+![Figure 1](output/figures/Fig1_combined_2x2.png)
 
-![Difference Network](output/figures/Fig1c_difference_network.png)
+(A) CWL network. (B) BWL network. (C) Difference network (BWL − CWL). (D) Node strength change.
 
-### Figure 1d — Node Strength Change
+### Figure 2 — Forest Plot & Strength Rank Changes
 
-![Strength Change](output/figures/Fig1d_strength_change_bar.png)
+![Figure 2](output/figures/Fig2_strength_forest_bump.png)
 
-### Figure 2 — Dissociation: Univariate vs. Network Significance
-
-![Dissociation](output/figures/Fig2_dissociation.png)
-
-### Figure 3 — Forest Plot (Node Strength ± 95% Permutation CI)
-
-![Forest Plot](output/figures/Fig3_forest_plot.png)
-
-### Figure 4 — Strength Rank Changes (Bump Chart)
-
-![Bump Chart](output/figures/Fig4_bump_chart.png)
+(A) Node strength ± 95% permutation CI. (B) Bump chart of strength rank migration.
 
 ## Repository Structure
 
