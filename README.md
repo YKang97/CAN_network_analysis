@@ -1,7 +1,7 @@
 # Cross-Condition Network Analysis
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python 3.8+](https://pfst.cf2.poecdn.net/base/image/615ff68347b1a24604be37f6c9bba422591b71f2fb4927934fa1df6431ae9bb3?pmaid=599817308)](https://www.python.org/)
+[![License: MIT](https://pfst.cf2.poecdn.net/base/image/4ba58a42a1fd9162b3759f934f77fea471b851e359255d522e10f301557e22c3?pmaid=599817309)](LICENSE)
 
 ## Overview
 
@@ -54,13 +54,9 @@ We implement a **correlation-based network analysis** comparing two experimental
 
 ![Forest Plot](output/figures/Fig3_forest_plot.png)
 
-### Figure 4 — Intra- vs. Inter-subsystem Edge Changes
+### Figure 4 — Strength Rank Changes (Bump Chart)
 
-![Subsystem Edges](output/figures/Fig4_subsystem_edges.png)
-
-### Figure 5 — Strength Rank Changes (Bump Chart)
-
-![Bump Chart](output/figures/Fig5_bump_chart.png)
+![Bump Chart](output/figures/Fig4_bump_chart.png)
 
 ## Repository Structure
 
