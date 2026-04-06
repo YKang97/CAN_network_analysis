@@ -7,7 +7,7 @@
 
 This repository contains the data and analysis code for the paper:
 
-> **光谱条件对学龄前儿童生理–行为网络结构的影响：探索性二次分析**  
+> **Network Analysis of Physiological–Behavioral Responses to Blue-Enriched White Light in Preschool Children: An Exploratory Secondary Analysis**  
 > Yankang Jiang<sup> a</sup>, Dingheng Mai<sup> b</sup>, Xiaotong Chen<sup> c</sup>, Junxian Liang<sup> d</sup>, Yupeng Shen<sup> a, *</sup> 
 > *BMC Sports Science, Medicine and Rehabilitation (2026)*
 >
