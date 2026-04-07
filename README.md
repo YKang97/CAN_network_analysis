@@ -1,7 +1,7 @@
 # Cross-Condition Network Analysis
 
-[![Python 3.8+](https://pfst.cf2.poecdn.net/base/image/615ff68347b1a24604be37f6c9bba422591b71f2fb4927934fa1df6431ae9bb3?pmaid=599817308)](https://www.python.org/)
-[![License: MIT](https://pfst.cf2.poecdn.net/base/image/4ba58a42a1fd9162b3759f934f77fea471b851e359255d522e10f301557e22c3?pmaid=599817309)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 
 ## Overview
 
@@ -49,12 +49,12 @@ We implement a **correlation-based network analysis** comparing two experimental
 
 ```
 .
-├── data/                       # Raw data (not included in repo)
-├── output/figures/             # Generated figures
-├── CAN_network_analysis.ipynb  # Main analysis notebook
-├── requirements.txt            # Python dependencies
-├── LICENSE                     # MIT License
-└── README.md                   # This file
+├── data/ # Raw data (not included in repo)
+├── output/figures/ # Generated figures
+├── CAN_network_analysis.ipynb # Main analysis notebook
+├── requirements.txt # Python dependencies
+├── LICENSE.txt # MIT License
+└── README.md # This file
 ```
 
 ## Installation
