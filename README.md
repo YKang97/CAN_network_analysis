@@ -7,7 +7,8 @@
 
 This repository contains the analysis code for the paper:
 
-> **Blue-Enriched White Light and Within-Subsystem Integration in Preschool Children: An Exploratory Network Analysis Dissociating Univariate and Topological Sensitivity**  
+> **Blue-Enriched White Light and Within-Subsystem Integration in Preschool Children: An Exploratory Network Analysis Dissociating Univariate and Topological Sensitivity**
+> 
 > Yankang Jiang<sup> a</sup>, Dingheng Mai<sup> b</sup>, Xiaotong Chen<sup> c</sup>, Shuxin Wang<sup> d</sup>, Junxian Liang<sup> e</sup>, Yupeng Shen<sup> a, *</sup> 
 >
 > 
