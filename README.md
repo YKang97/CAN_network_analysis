@@ -8,13 +8,14 @@
 This repository contains the analysis code for the paper:
 
 > **Blue-Enriched White Light and Within-Subsystem Integration in Preschool Children: An Exploratory Network Analysis Dissociating Univariate and Topological Sensitivity**  
-> Yankang Jiang<sup> a</sup>, Dingheng Mai<sup> b</sup>, Xiaotong Chen<sup> c</sup>, Junxian Liang<sup> d</sup>, Yupeng Shen<sup> a, *</sup> 
+> Yankang Jiang<sup> a</sup>, Dingheng Mai<sup> b</sup>, Xiaotong Chen<sup> c</sup>, Shuxin Wang<sup> d</sup>, Junxian Liang<sup> e</sup>, Yupeng Shen<sup> a, *</sup> 
 >
 > 
-> <sub>*<sup>a</sup> Sports Engineering Center, School of Physical Education and Sports Science, South China Normal University, Guangzhou, 510006, China*</sub>  
+> <sub>*<sup>a</sup> Sports Engineering Center, School of Physical Education and Sports Science, South China Normal University, Guangzhou, China*</sub>  
 > <sub>*<sup>b</sup> Department of Biomedical Engineering, Case Western Reserve University, Cleveland, OH, United States*</sub>  
-> <sub>*<sup>c</sup> School of Physical Education, Guangzhou Business School, Guangzhou, 511400, China*</sub>  
-> <sub>*<sup>d</sup> Center for Cognitive and Brain Sciences, Institute of Collaborative Innovation, University of Macau, Taipa, Macau, China*</sub>
+> <sub>*<sup>c</sup> School of Physical Education, Guangzhou Business School, Guangzhou, China*</sub>  
+> <sub>*<sup>d</sup> College of Physical Education and Health, Guangdong Polytechnic Normal University, Guangzhou, China*</sub>
+> <sub>*<sup>e</sup> Center for Cognitive and Brain Sciences, Institute of Collaborative Innovation, University of Macau, Taipa, Macau, China*</sub>
 
 
 We implement a **correlation-based network analysis** comparing two experimental conditions (CWL vs. BWL) using sign-flip permutation inference on global, node-level, and edge-level network metrics. The entire analysis is fully reproducible from raw data to final figures in a single Jupyter notebook.
