@@ -90,7 +90,7 @@ If you use this code, please cite:
              and Liang, Junxian and Shen, Yupeng},
   journal = {Applied Ergonomics},
   year    = {2026},
-  doi     = {YOUR_DOI_HERE}
+  doi     = {10.5281/zenodo.19459881}
 }
 ```
 
