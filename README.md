@@ -9,7 +9,6 @@ This repository contains the data and analysis code for the paper:
 
 > **Network Analysis of Physiological–Behavioral Responses to Blue-Enriched White Light in Preschool Children: An Exploratory Secondary Analysis**  
 > Yankang Jiang<sup> a</sup>, Dingheng Mai<sup> b</sup>, Xiaotong Chen<sup> c</sup>, Junxian Liang<sup> d</sup>, Yupeng Shen<sup> a, *</sup> 
-> *BMC Sports Science, Medicine and Rehabilitation (2026)*
 >
 > 
 > <sub>*<sup>a</sup> Sports Engineering Center, School of Physical Education and Sports Science, South China Normal University, Guangzhou, 510006, China*</sub>  
