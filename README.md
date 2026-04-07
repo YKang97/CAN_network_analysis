@@ -88,7 +88,7 @@ If you use this code, please cite:
              Dissociating Univariate and Topological Sensitivity},
   author  = {Jiang, Yankang and Mai, Dingheng and Chen, Xiaotong
              and Liang, Junxian and Shen, Yupeng},
-  journal = {Applied Ergonomics},
+  journal = {},
   year    = {2026},
   doi     = {10.5281/zenodo.19459881}
 }
