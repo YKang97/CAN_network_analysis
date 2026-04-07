@@ -90,7 +90,7 @@ If you use this code, please cite:
              and Liang, Junxian and Shen, Yupeng},
   journal = {},
   year    = {2026},
-  doi     = {10.5281/zenodo.19459881}
+  doi     = {[10.5281/zenodo.19459881](https://doi.org/10.5281/zenodo.19459881)}
 }
 ```
 
