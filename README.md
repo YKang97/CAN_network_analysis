@@ -12,7 +12,7 @@ This repository contains the data and analysis code for the paper:
 >
 > 
 > <sub>*<sup>a</sup> Sports Engineering Center, School of Physical Education and Sports Science, South China Normal University, Guangzhou, 510006, China*</sub>  
-> <sub>*<sup>b</sup> School of Physical Education, Guangzhou Business School, Guangzhou, 511400, China*</sub>  
+> <sub>*<sup>b</sup> Department of Biomedical Engineering, Case Western Reserve University, Cleveland, OH, United States*</sub>  
 > <sub>*<sup>c</sup> School of Physical Education, Guangzhou Business School, Guangzhou, 511400, China*</sub>  
 > <sub>*<sup>d</sup> Center for Cognitive and Brain Sciences, Institute of Collaborative Innovation, University of Macau, Taipa, Macau, China*</sub>
 
