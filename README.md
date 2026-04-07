@@ -25,11 +25,11 @@ We implement a **correlation-based network analysis** comparing two experimental
 |------|-------------|
 | Network construction | Spearman correlation matrix; edges thresholded at *p* < .05 |
 | Node metric | Weighted strength |
-| Global metrics | Density, global efficiency, clustering coefficient, modularity, characteristic path length |
+| Global metrics | Density, mean edge weight, global efficiency, weighted average clustering coefficient, weighted average shortest path length, modularity |
 | Inference | 10,000 sign-flip permutations (paired design) |
 | Multiple-comparison correction | Benjamini–Hochberg FDR |
 
-## Key Results
+> **Note:** All analysis parameters (e.g., significance threshold, number of permutations, FDR level) are defined in the first code cell of the Jupyter notebook and can be modified there.
 
 ## Key Results
 
@@ -82,10 +82,13 @@ Raw data are available upon reasonable request from the corresponding author. Th
 If you use this code, please cite:
 
 ```bibtex
-@article{Kang2026,
-  title   = {Your Paper Title},
-  author  = {Kang, Y. and ...},
-  journal = {Journal Name},
+@article{Jiang2026,
+  title   = {Blue-Enriched White Light and Within-Subsystem Integration
+             in Preschool Children: An Exploratory Network Analysis
+             Dissociating Univariate and Topological Sensitivity},
+  author  = {Jiang, Yankang and Mai, Dingheng and Chen, Xiaotong
+             and Liang, Junxian and Shen, Yupeng},
+  journal = {Applied Ergonomics},
   year    = {2026},
   doi     = {YOUR_DOI_HERE}
 }
